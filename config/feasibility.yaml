@@ -1,0 +1,7 @@
+# A need is "software-addressable" when posts about it mention these kinds of things.
+# Edit the lists to match your own product and platform.
+software_terms: [app, update, notification, notifications, alert, alerts, display, screen, software, sync, bluetooth,
+  route, routing, navigation, map, maps, voice, command, commands, dashboard, report, reminder, reminders, schedule,
+  connect, connection, pairing, login, setting, settings, menu, interface, remote, charging stop, range estimate]
+hardware_terms: [seat, tyre, tire, noise, paint, rust, wiper, blade, door, hinge, gasket, leak, suspension, engine,
+  brake pad, steering wheel, window, handle, cupholder, trim]
