@@ -1,0 +1,10 @@
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+# Embedded HTML/JS and the synthetic word lists are data, not code; wrapping them hurts readability.
+"operatorvoice/report.py" = ["E501"]
+"operatorvoice/synth.py" = ["E501"]

@@ -6,3 +6,6 @@ __pycache__/
 build/
 *.o
 *.db
+
+out/
+.env

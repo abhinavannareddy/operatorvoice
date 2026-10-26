@@ -1,4 +1,4 @@
 pandas>=2
 scikit-learn>=1.4
 numpy>=1.26
-pytest>=8
+PyYAML>=6
